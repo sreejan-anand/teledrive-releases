@@ -1,0 +1,14 @@
+{
+  "android": {
+    "versionName": "1.0.0",
+    "versionCode": 1,
+    "apkUrl": "https://github.com/sreejan-anand/teledrive-releases/releases/latest/download/TeleDrive.apk",
+    "releaseNotes": [
+      "Initial TeleDrive sideloaded APK release channel."
+    ],
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "sha256": "",
+    "minimumSupportedVersionCode": 1,
+    "mandatory": false
+  }
+}
